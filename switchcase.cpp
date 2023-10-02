@@ -33,6 +33,9 @@ int main()
         case 7:
         cout<<"sunday";
         break;
+
+        default:
+        cout<<"invalid option"
         
         return 0;
     }
